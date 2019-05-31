@@ -4,7 +4,8 @@ This source code is part of [Mongo Express Vue Node.js (MEVN Stack) CRUD Web App
 
 To run locally:
 
-* Clone this repo
+* Clone this repo ---> git clone git@github.com:mxrtin/CrudVueJs.git
+
 * Run `npm install`
 * Run your MongoDB server
 * Run `npm start`
