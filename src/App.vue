@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <h1>MEVN Stack</h1>
+    <h1>CRUD Vuejs Booklist</h1>
     <router-view/>
   </b-container>
 </template>
